@@ -1,0 +1,6 @@
+//awal 7aja ndirha hia n7km hadil la photos lkbira 
+
+let image= document.querySelector('.main-image');
+
+//laja zawja hia ki nkliki 3la les phones li lt7ta tmchili
+function troh tbdli source image
